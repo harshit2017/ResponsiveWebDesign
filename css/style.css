@@ -172,6 +172,9 @@ footer {
         text-align: center;
         width: 100%;
     }
+    header nav, header nav li {
+        font-size: 2%;
+    }
     header {
         padding-bottom: 20px;
     }
